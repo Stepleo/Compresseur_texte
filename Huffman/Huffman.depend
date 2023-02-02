@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1675367663 source:c:\users\macht\onedrive\desktop\c++\huffman\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<fstream>
+	<sstream>
+	"Node.h"
+	"compare.h"
+	"HuffmanEncoder.h"
+
+1675364790 source:c:\users\macht\onedrive\desktop\c++\huffman\src\compare.cpp
+	"compare.h"
+	"Node.h"
+
+1675364670 c:\users\macht\onedrive\desktop\c++\huffman\include\compare.h
+	"Node.h"
+
+1675364648 c:\users\macht\onedrive\desktop\c++\huffman\include\node.h
+
+1675364796 source:c:\users\macht\onedrive\desktop\c++\huffman\src\node.cpp
+	"Node.h"
+
+1675364848 c:\users\macht\onedrive\desktop\c++\huffman\include\huffmanencoder.h
+	"Node.h"
+	<iostream>
+	<string>
+	<vector>
+
+1675365541 source:c:\users\macht\onedrive\desktop\c++\huffman\src\huffmanencoder.cpp
+	"HuffmanEncoder.h"
+	"Node.h"
+	"compare.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<fstream>
+	<sstream>
+
